@@ -6,6 +6,3 @@ This repository contains my cybersecurity and networking study materials.
 
 ### 📖 Notes
 - 📄 [Networking Notes](Networking.pdf)
-- 📄 [OSI Model Notes](OSI_Model.pdf)
-- 📄 [TCP/IP Notes](TCP_IP.pdf)
-- 📄 [Subnetting Notes](Subnetting.pdf)
